@@ -6,7 +6,7 @@ const SOURCES = [
     url: 'https://www.insidelacrosse.com/article/di-mens-transfer-portal-tracker-2026/dc4b1552-9795-47d7-94ab-53717ee3d850',
     gender: "Men's",
     division: 'D1',
-    note: 'DI Men's Transfer Portal Tracker 2026',
+    note: 'DI Men\'s Transfer Portal Tracker 2026',
   },
   {
     url: 'https://www.insidelacrosse.com/article/DI%20Women\'s%20Transfer%20Portal%20Tracker%202026/ad712a8d-e949-4657-8a67-60c02b940bc6',
