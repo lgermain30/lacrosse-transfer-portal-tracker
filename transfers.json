@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T08:16:02.896Z",
-  "count": 522,
+  "generatedAt": "2026-07-30T08:03:35.766Z",
+  "count": 520,
   "transfers": [
     {
       "playerName": "Kayli Grant",
@@ -2280,13 +2280,13 @@
     {
       "playerName": "Allie Good",
       "previousSchool": "",
-      "newSchool": "",
+      "newSchool": "Daemen",
       "class": "",
       "position": "",
       "gender": "Women's",
       "division": "D1/D2/D3",
       "status": "",
-      "notes": "Active",
+      "notes": "Signed",
       "sourceUrl": "https://laxextras.com/2026/05/13/transfer-portal-tracker-2026/",
       "sourceName": "Lax Extras Women's Transfer Portal Tracker 2026"
     },
@@ -3717,19 +3717,6 @@
       "division": "D1/D2/D3",
       "status": "",
       "notes": "Signed",
-      "sourceUrl": "https://laxextras.com/2026/05/13/transfer-portal-tracker-2026/",
-      "sourceName": "Lax Extras Women's Transfer Portal Tracker 2026"
-    },
-    {
-      "playerName": "Olivia Worden",
-      "previousSchool": "",
-      "newSchool": "",
-      "class": "",
-      "position": "",
-      "gender": "Women's",
-      "division": "D1/D2/D3",
-      "status": "",
-      "notes": "Active",
       "sourceUrl": "https://laxextras.com/2026/05/13/transfer-portal-tracker-2026/",
       "sourceName": "Lax Extras Women's Transfer Portal Tracker 2026"
     },
@@ -6725,19 +6712,6 @@
     },
     {
       "playerName": "Emma Stein",
-      "previousSchool": "",
-      "newSchool": "",
-      "class": "",
-      "position": "",
-      "gender": "Women's",
-      "division": "D1/D2/D3",
-      "status": "",
-      "notes": "Active",
-      "sourceUrl": "https://laxextras.com/2026/05/13/transfer-portal-tracker-2026/",
-      "sourceName": "Lax Extras Women's Transfer Portal Tracker 2026"
-    },
-    {
-      "playerName": "Sabrina Doyle",
       "previousSchool": "",
       "newSchool": "",
       "class": "",
